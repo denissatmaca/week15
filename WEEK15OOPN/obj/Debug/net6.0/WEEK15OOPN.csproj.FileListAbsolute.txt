@@ -1,0 +1,15 @@
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\bin\Debug\net6.0\WEEK15OOPN.exe
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\bin\Debug\net6.0\WEEK15OOPN.deps.json
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\bin\Debug\net6.0\WEEK15OOPN.runtimeconfig.json
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\bin\Debug\net6.0\WEEK15OOPN.dll
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\bin\Debug\net6.0\WEEK15OOPN.pdb
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.csproj.AssemblyReference.cache
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.AssemblyInfoInputs.cache
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.AssemblyInfo.cs
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.csproj.CoreCompileInputs.cache
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.dll
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\refint\WEEK15OOPN.dll
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.pdb
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\WEEK15OOPN.genruntimeconfig.cache
+C:\Users\monster\source\repos\WEEK15OOPN\WEEK15OOPN\obj\Debug\net6.0\ref\WEEK15OOPN.dll
